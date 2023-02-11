@@ -44,6 +44,11 @@ img {
     padding-right: 102px;
 }
 
+.github {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 .twitch {
     padding-left: 97px;
     padding-right: 97px;
@@ -59,9 +64,6 @@ img {
     padding-right: 90px;
 }
 
-/* .github {
-
-} */
 
 /* .kindle {
 
@@ -72,8 +74,8 @@ img {
 } */
 
 .tumblr {
-    padding-left: 88px;
-    padding-right: 88px;
+    padding-left: 86px;
+    padding-right: 86px;
 }
 
 footer {
